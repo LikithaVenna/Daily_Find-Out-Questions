@@ -1,0 +1,18 @@
+div p{
+    color:red;
+}               
+div p span{
+    color:blue;
+}
+#list li{
+    color:green;
+}
+#list>li{
+    color:blue;
+}
+ul + p{
+    color:indigo;
+}
+ul ~ p{
+    color:greenyellow;
+}
