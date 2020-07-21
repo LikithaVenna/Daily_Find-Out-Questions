@@ -3,6 +3,7 @@
   z-index: 1;
   border: dashed;
   height: 8em;
+  width: 40%;
   margin-bottom: 1em;
   margin-top: 2em;
 }
@@ -17,7 +18,7 @@
 .green-box { 
   position: absolute;
   z-index: 2; /* put .green-box above .dashed-box */
-  background: lightgreen;
+  background: green;
   width: 20%;
   left: 65%;
   top: -25px;
