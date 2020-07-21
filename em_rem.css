@@ -1,15 +1,19 @@
-h1 {
-  font-size: 2em; /* 1em = 16px */
-  margin-bottom: 1em; /* 1em = 32px */
-}
-
-p {
-  font-size: 1em; /* 1em = 16px */
-  margin-bottom: 1em; /* 1em = 16px */
-}
-
 .header {
   font-size: 1rem;
   padding: 0.5rem 0.75rem;
   background: #7F7CFF;
+}
+
+.header--large {
+  font-size: 2rem;
+}
+
+.main {
+  font-size: 1em;
+  padding: 0.5em 0.75em;
+  background: #7F7CFF;
+}
+
+.main--large {
+  font-size: 2em;
 }
