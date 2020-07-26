@@ -24,7 +24,7 @@ console.log(Math.fround(x))
 
 let y=64
 
-console.log('Returns the positive square root of x')
+console.log('Returns the positive square root of y')
 console.log(Math.sqrt(y))
 
 console.log('Returns base a to the exponent power b (that is, a^b)')
